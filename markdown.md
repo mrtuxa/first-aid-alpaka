@@ -98,6 +98,7 @@ nav ul {
 - Demonstration der Forum Funktionen
 
 ![width:1048px](first_aid_alpaka_home.png)
+
 ---
 
 # Fazit
