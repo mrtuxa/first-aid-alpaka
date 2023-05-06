@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+      <meta charset="UTF-8">
     <title>FIRST AID ALPAKA - Formular</title>
     <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
-    <meta charset="UTF-8">
   </head>
   <body>
     <nav>
@@ -29,7 +29,7 @@
       
       Stadt, Schule </br>
        <input type="Name" ></br>
-      </br>
+      
        
        Typ der Verletzung (bitte auswählen)</br>
        <select name="typ der Verletzung" id="Typ der Verletzung">
@@ -46,16 +46,18 @@
        <option value="sonstiges">Sonstiges</option>
 
      </select></br>
-      </br>
+      
        
        Ort des Geschehens</br>
         <input type="Name" ></br>
-      </br>
+      
 
        Sonst noch wichtig</br>
-       <input type="sonstiges" name="Anliegen" ></br>
-      </br>
+       <textarea id="wichtig" name="wichtig" rows="12" cols="100"></textarea></br>
+    
        
        <div class="Sendenbutton">
         <button><p>Senden</p></button>
       </div>
+
+    </body>

@@ -5,7 +5,10 @@ title: App/Cloud für Sanitätsdienste an Dresdner Schulen mit Infos zu häufige
 ---
 
 # FIRST AID ALPAKA
-#### by *@Siri* und *@mrtuxa* 
+#### by *@Siri*, *@mrtuxa* und *@reisealpaka*
+
+
+![width:350px](assets/images/Logo.png)
 
 ---
 
@@ -49,11 +52,52 @@ title: App/Cloud für Sanitätsdienste an Dresdner Schulen mit Infos zu häufige
 
 ---
 
-# Wie die App/Cloud funktioniert
+```css
+body {
+    font-family: Comic Sans MS, sans-serif;
+    background-color: #f2f2f2;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    float: right;
+  }
+  
+  nav {
+    background-color: #47a91a;
+    color: #ffffff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  } 
+```
+
+---
+
+```html
+<nav>
+	<a id="Pfeil" href="index.html">
+      <img src="./assets/images/Logo.png" alt="Pfeil">
+    </a>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="stats.html">Statistik</a></li>
+		 <li><a href="contact.html">Kontakte</a></li>
+      </ul>
+</nav>
+```
+
+---
+
+# Wie das Forum funktioniert
 
 - Demonstration der Forum Funktionen
 
-
+![width:1048px](first_aid_alpaka_home.png)
 ---
 
 # Fazit
@@ -61,6 +105,7 @@ title: App/Cloud für Sanitätsdienste an Dresdner Schulen mit Infos zu häufige
  Ausblick:
  - auf sachsenweit erweitern
  - Datenbank einfügen um Daten zu speichern
+ - allgemeines Backend erstellen
 
 ---
 
