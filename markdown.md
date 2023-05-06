@@ -1,6 +1,7 @@
 ---
 marp: true
 theme: gaia
+class: lead
 title: App/Cloud für Sanitätsdienste an Dresdner Schulen mit Infos zu häufigen Verletzungen/Verletzungsmustern
 ---
 
@@ -96,6 +97,8 @@ nav ul {
 # Wie das Forum funktioniert
 
 - Demonstration der Forum Funktionen
+
+## URL: `https://jugendhackt.github.io/first-aid-alpaka/`
 
 ![width:1048px](first_aid_alpaka_home.png)
 
